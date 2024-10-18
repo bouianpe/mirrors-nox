@@ -6,5 +6,5 @@ from setuptools import setup
 setup(
     name='pre_commit_placeholder_package',
     version='0.0.0',
-    install_requires=['nox==2022.11.21'],
+    install_requires=['nox==2024.10.09'],
 )
